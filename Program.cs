@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace YourProjectName
+namespace empManagementSystem
 {
     class Program
     {
