@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace empManagementSystem
+namespace empMngSystem
 {
     class Program
     {
