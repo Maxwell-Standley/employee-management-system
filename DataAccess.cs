@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data.SqlClient;
 
-namespace YourProjectName
+namespace empManagementSystem
 {
     public class DataAccess : IDisposable
     {
